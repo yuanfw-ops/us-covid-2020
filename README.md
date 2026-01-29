@@ -24,6 +24,7 @@ This map visualized the overall rate of COVID-19 by US counties, which was calcu
 - **URL:**  `https://yuanfw-ops.github.io/us-covid-2020/map2.html`
 
 This map tells the total number of cases of COVID-19 by counties. 
+
 ---
 
 ## Data Sources
