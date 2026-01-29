@@ -8,8 +8,7 @@ This project focused on the COVID-19 pandemic in the US in 2020 and presened two
 ### 1. COVID-19 Case Rates by County, United States (2020)
 - **Map type:** Choropleth map  
 - **Variable:** COVID-19 case rate (cases per 1,000 residents)  
-- **Spatial unit:** County  
-- **File:** `map1.html`  
+- **Spatial unit:** County   
 - **URL:**  `https://yuanfw-ops.github.io/us-covid-2020/Map1.html`
 ![Map1](img/map1.png)
 
@@ -21,7 +20,6 @@ This map visualized the overall rate of COVID-19 by US counties, which was calcu
 - **Map type:** Proportional symbol map  
 - **Variable:** Total confirmed COVID-19 cases  
 - **Spatial unit:** County  
-- **File:** `map2.html`  
 - **URL:**  `https://yuanfw-ops.github.io/us-covid-2020/Map2.html`
 ![Map2](img/map2.png)
 
