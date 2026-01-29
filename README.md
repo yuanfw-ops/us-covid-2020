@@ -1,6 +1,8 @@
 # COVID-19 Thematic Map of the United States (2020)
 ## Project Overview
+
 This project focused on the COVID-19 pandemic in the US in 2020 and presened two representative maps. 
+
 ---
 ## Maps
 ### 1. COVID-19 Case Rates by County, United States (2020)
