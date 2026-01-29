@@ -35,3 +35,17 @@ This map tells the total number of cases of COVID-19 by counties.
 - **Population data:** [2018 American Community Survey (ACS) 5-year estimates](https://data.census.gov/cedsci/table?g=0100000US.050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true)
 - **County boundaries:** [U.S. Census Bureau](https://data.census.gov/cedsci/table?g=0100000US.050000&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2018.DP05&hidePreview=true)
 
+---
+
+## Data Processing
+
+- Converted original dataset to **GeoJSON** from **Shapefile**. 
+- Maps are rendered using the **Albers projection** in Mapbox GL JS. 
+
+---
+
+## Acknowledgement & Credits
+- Lab materials and processed datasets provided by **Steven Bao**
+- Lab instruction by **Bo Zhao**
+
+---
