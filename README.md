@@ -10,8 +10,7 @@ This project focused on the COVID-19 pandemic in the US in 2020 and presened two
 - **Variable:** COVID-19 case rate (cases per 1,000 residents)  
 - **Spatial unit:** County  
 - **File:** `map1.html`  
-- **URL:**  
-  `https://yuanfw-ops.github.io/us-covid-2020/map1.html`
+- **URL:**  `https://yuanfw-ops.github.io/us-covid-2020/map1.html`
 
 This map visualized the overall rate of COVID-19 by US counties, which was calculated by cases per 1000 residents. 
 
@@ -22,8 +21,7 @@ This map visualized the overall rate of COVID-19 by US counties, which was calcu
 - **Variable:** Total confirmed COVID-19 cases  
 - **Spatial unit:** County  
 - **File:** `map2.html`  
-- **URL:**  
-  `https://yuanfw-ops.github.io/us-covid-2020/map2.html`
+- **URL:**  `https://yuanfw-ops.github.io/us-covid-2020/map2.html`
 
 This map tells the total number of cases of COVID-19 by counties. 
 ---
